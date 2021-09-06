@@ -1,2 +1,2 @@
 # POO
-First little POO project: Little manager of subjects schedule.
+First little POO project: Little subject schedule manager.
